@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @vishnu630
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @vishnu teja reddy
+- 👀 I’m interested in ...web development
+- 🌱 I’m currently learning ... javascript,nodejs,Express
+- 💞️ I’m looking to collaborate on ...MERN stack developers 
+- 📫 How to reach me ... mail me: vishnuteja779986@gmail.com, Phone no.6301203873
 
 <!---
 vishnu630/vishnu630 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
