@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vishnu teja reddy
 - 👀 I’m interested in ...web development
 - 🌱 I’m currently learning ... javascript,nodejs,Express
-- 💞️ I’m looking to collaborate on ...MERN stack developers 
+- 💞️ I’m looking to collaborate with ...MERN stack developers 
 - 📫 How to reach me ... mail me: vishnuteja779986@gmail.com, Phone no.6301203873
 
 <!---
