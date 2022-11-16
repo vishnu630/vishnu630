@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 - A passionate Self-taught Front-end developer
 - Currently learning Web Development by Self
 - 🌱 An Aspiring MERN Stack Developer
-- Personal website [link](https://www.Vishnutejareddy.me)
+- Personal website [link](https://vishnutejareddy.me/)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://www.vishnutejareddy.me)
 
 <br><br>
