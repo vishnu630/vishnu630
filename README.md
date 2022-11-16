@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @vishnu teja reddy
-- 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ... javascript,nodejs,Express
-- 💞️ I’m looking to collaborate with ...MERN stack developers 
-- 📫 How to reach me ... mail me: vishnuteja779986@gmail.com, Phone no.6301203873
-
 <!---
 vishnu630/vishnu630 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -27,8 +21,8 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 - A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
 - Currently learning Web Development by Self
+- 🌱 An Aspiring MERN Stack Developer
 - Personal website [link](https://www.vishnutejareddy.me)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://www.vishnutejareddy.me)
 
@@ -115,7 +109,7 @@ You can click the Preview link to take a look at your changes.
 
 <li>
 <a href="https://www.linkedin.com/in/vishnu-teja-reddy-a284b4194/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  vishnutejareddy-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  Vishnu Teja Reddy-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -123,7 +117,7 @@ You can click the Preview link to take a look at your changes.
 
 <li>
 <a href="https://twitter.com/vishnut03004400" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  vishnutejareddy-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/twitter:  Vishnu Teja Reddy-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -131,7 +125,7 @@ You can click the Preview link to take a look at your changes.
 
 <li>
 <a href="mailto:vishnuteja779986@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  vishnutejareddy-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  Vishnu Teja Reddy-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
