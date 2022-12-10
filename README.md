@@ -54,7 +54,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align='center'>
 
-<b>The most disastrous thing that you can ever learn is your first programming language...✨</b>
+<b>Code never lies, comments sometimes do....</b>
 
 </div>
 <br>
