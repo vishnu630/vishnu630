@@ -51,10 +51,10 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 
-
+<hr>
 <div align='center'>
 
-<b>Code never lies, comments sometimes do....</b>
+<b>Code never lies, Comments sometimes do.... ✨</b>
 
 </div>
 <br>
