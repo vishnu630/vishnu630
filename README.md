@@ -86,7 +86,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 <!-- <a href="https://github.com/vishnu630/"> -->
-<img src ='https://github-readme-stats.vercel.app/api?username=vishnu630&show_icons=true&theme=tokyonight' width="430" alt="vishnu630"/>
+<img src ='https://github-readme-stats.vercel.app/api?username=vishnu630&show_icons=true&theme=tokyonight' width="435" alt="vishnu630"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnu630&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="vishnu630"/>
 	<img src='https://komarev.com/ghpvc/?username=vishnu630&color=dc143c' width="375" alt="vishnu630"/>
 <!-- </a> -->
