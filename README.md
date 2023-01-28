@@ -28,7 +28,6 @@ vishnu630/vishnu630 is a ✨ special ✨ repository because its `README.md` (thi
 
 - A passionate Self-taught Front-end developer
 - Currently learning Web Development by Self
-- 🌱 An Aspiring MERN Stack Developer
 - Personal website [link](https://vishnutejareddy.me/)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://www.vishnutejareddy.me)
 
